@@ -25,3 +25,8 @@ Plan
 =================
 1: change text color
 2: support timer task
+
+History
+=================
+[0.1]  2019-09-22   init project.
+[0.1]  2019-09-22   supprot change note's background-color.
