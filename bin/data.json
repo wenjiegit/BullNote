@@ -1,0 +1,41 @@
+[
+    {
+        "bg_color": {
+            "a": 255,
+            "b": 99,
+            "g": 94,
+            "r": 244
+        },
+        "height": 280,
+        "text": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'隶书'; font-size:12pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" color:#092e64;\">clrObj</span>.<span style=\" color:#00677c;\">insert</span>(<span style=\" color:#008000;\">&quot;r&quot;</span>,<span style=\" color:#c0c0c0;\"> </span><span style=\" color:#800000;\">m_bgColor</span>.<span style=\" color:#00677c;\">red</span>());</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'Courier New'; color:#c0c0c0;\">    </span><span style=\" font-family:'Courier New'; color:#092e64;\">clrObj</span><span style=\" font-family:'Courier New';\">.</span><span style=\" font-family:'Courier New'; color:#00677c;\">insert</span><span style=\" font-family:'Courier New';\">(</span><span style=\" font-family:'Courier New'; color:#008000;\">&quot;g&quot;</span><span style=\" font-family:'Courier New';\">,</span><span style=\" font-family:'Courier New'; color:#c0c0c0;\"> </span><span style=\" font-family:'Courier New'; color:#800000;\">m_bgColor</span><span style=\" font-family:'Courier New';\">.</span><span style=\" font-family:'Courier New'; color:#00677c;\">green</span><span style=\" font-family:'Courier New';\">());</span></p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'Courier New'; color:#c0c0c0;\">    </span><span style=\" font-family:'Courier New'; color:#092e64;\">clrObj</span><span style=\" font-family:'Courier New';\">.</span><span style=\" font-family:'Courier New'; color:#00677c;\">insert</span><span style=\" font-family:'Courier New';\">(</span><span style=\" font-family:'Courier New'; color:#008000;\">&quot;b&quot;</span><span style=\" font-family:'Courier New';\">,</span><span style=\" font-family:'Courier New'; color:#c0c0c0;\"> </span><span style=\" font-family:'Courier New'; color:#800000;\">m_bgColor</span><span style=\" font-family:'Courier New';\">.</span><span style=\" font-family:'Courier New'; color:#00677c;\">blue</span><span style=\" font-family:'Courier New';\">());</span></p></body></html>",
+        "width": 230,
+        "x": 1652,
+        "y": 348
+    },
+    {
+        "bg_color": {
+            "a": 255,
+            "b": 212,
+            "g": 188,
+            "r": 0
+        },
+        "height": 280,
+        "text": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'隶书'; font-size:12pt; font-weight:400; font-style:normal;\">\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>",
+        "width": 279,
+        "x": 2070,
+        "y": 233
+    },
+    {
+        "bg_color": {
+            "a": 255,
+            "b": 172,
+            "g": 190,
+            "r": 0
+        },
+        "height": 336,
+        "text": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'隶书'; font-size:12pt; font-weight:400; font-style:normal;\">\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>",
+        "width": 246,
+        "x": 1377,
+        "y": 240
+    }
+]
