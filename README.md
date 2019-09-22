@@ -20,6 +20,7 @@ Features
 2: support windows/macosx<br/>
 3: support force to top feature
 4: support rich-text
+5: MIT license
 
 Plan
 =================
